@@ -3,10 +3,10 @@
 
 /**
  * print_times_table - function name
- * 
+ *
  * Description: 'prints n times table'
  * @n: the value
- * 
+ *
  * Return: nth times table
  */
 
